@@ -113,6 +113,5 @@ nav-menu: true
 				<div class="5u$"><span class="image fit"><img src="{% link assets/images/interiors/yel02.jpg %}" alt=""/></span></div>
 			</div>
 		</div>
-		</div>
 	</div>
 </section>
