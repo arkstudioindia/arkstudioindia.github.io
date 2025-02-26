@@ -58,3 +58,13 @@ show_tile: false
         </div>
     </div>
 </section>
+
+<style>
+	.profile-pic {
+		width: 200px;  /* Adjust as needed */
+		height: 200px; /* Ensures a perfect circle */
+		border-radius: 50%; /* Creates the circular shape */
+		object-fit: cover; /* Ensures the image fills the circle without distortion */
+		border: 3px solid #ccc; /* Optional: Adds a border */
+	}
+</style>
