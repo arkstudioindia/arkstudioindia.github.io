@@ -36,81 +36,81 @@ nav-menu: true
 		</header>
 		<div class="box alt">
 			<div class="row 50% uniform">
-				<div class="6u"><span class="image fit"><img src="{% link assets/images/interiors/spa02.jpg %}" alt=""/></span></div>
-				<div class="6u"><span class="image fit"><img src="{% link assets/images/interiors/off01.jpg %}" alt=""/></span></div>
-				<div class="6u$"><span class="image fit"><img src="{% link assets/images/interiors/off02.jpg %}" alt=""/></span></div>				
+				<div class="6u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/spa02.jpg %}" alt=""/></span></div>
+				<div class="6u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/off01.jpg %}" alt=""/></span></div>
+				<div class="6u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/off02.jpg %}" alt=""/><span><div>				
 				<!-- break -->
-				<div class="4u"><span class="image fit"><img src="{% link assets/images/interiors/spa01.jpg %}" alt=""/></span></div>
-				<div class="4u"><span class="image fit"><img src="{% link assets/images/interiors/mah01.jpg %}" alt=""/></span></div>
-				<div class="4u$"><span class="image fit"><img src="{% link assets/images/interiors/mah02.jpg %}" alt=""/></span></div>
+				<div class="4u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/spa01.jpg %}" alt=""/></span></div>
+				<div class="4u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/mah01.jpg %}" alt=""/></span></div>
+				<div class="4u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/mah02.jpg %}" alt=""/></span></div>
 				<!-- break -->
-				<div class="8u"><span class="image fit"><img src="{% link assets/images/interiors/hrk02.jpg %}" alt=""/></span></div>
-				<div class="4u"><span class="image fit"><img src="{% link assets/images/interiors/hrk01.jpg %}" alt=""/></span></div>
-				<div class="4u$"><span class="image fit"><img src="{% link assets/images/interiors/hrk04.jpg %}" alt=""/></span></div>
+				<div class="8u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/hrk02.jpg %}" alt=""/></span></div>
+				<div class="4u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/hrk01.jpg %}" alt=""/></span></div>
+				<div class="4u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/hrk04.jpg %}" alt=""/></span></div>
 				<!-- break -->
-				<div class="8u"><span class="image fit"><img src="{% link assets/images/interiors/hrk05.jpg %}" alt=""/></span></div>
-				<div class="4u$"><span class="image fit"><img src="{% link assets/images/interiors/hrk08.jpg %}" alt=""/></span></div>				
+				<div class="8u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/hrk05.jpg %}" alt=""/></span></div>
+				<div class="4u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/hrk08.jpg %}" alt=""/><span><div>				
 				<!-- break -->
-				<div class="8u"><span class="image fit"><img src="{% link assets/images/interiors/hrk07.jpg %}" alt=""/></span></div>
-				<div class="4u"><span class="image fit"><img src="{% link assets/images/interiors/hrk03.jpg %}" alt=""/></span></div>
-				<div class="4u$"><span class="image fit"><img src="{% link assets/images/interiors/hrk06.jpg %}" alt=""/></span></div>
+				<div class="8u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/hrk07.jpg %}" alt=""/></span></div>
+				<div class="4u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/hrk03.jpg %}" alt=""/></span></div>
+				<div class="4u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/hrk06.jpg %}" alt=""/></span></div>
 				<!-- break -->
-				<div class="6u"><span class="image fit"><img src="{% link assets/images/interiors/mek03.jpg %}" alt=""/></span></div>
-				<div class="6u$"><span class="image fit"><img src="{% link assets/images/interiors/mek07.jpg %}" alt=""/></span></div>
+				<div class="6u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/mek03.jpg %}" alt=""/></span></div>
+				<div class="6u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/mek07.jpg %}" alt=""/></span></div>
 				<!-- break -->
 				<div class="12u"><span class="image fit"><img src="{% link assets/images/interiors/mek02.jpg %}" alt=""/></span></div>
 				<!-- break -->
-				<div class="4u"><span class="image fit"><img src="{% link assets/images/interiors/mek01.jpg %}" alt=""/></span></div>
-				<div class="8u$"><span class="image fit"><img src="{% link assets/images/interiors/mek05.jpg %}" alt=""/></span></div>
+				<div class="4u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/mek01.jpg %}" alt=""/></span></div>
+				<div class="8u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/mek05.jpg %}" alt=""/></span></div>
 				<!-- break -->
-				<div class="7u"><span class="image fit"><img src="{% link assets/images/interiors/mek06.jpg %}" alt=""/></span></div>
-				<div class="5u$"><span class="image fit"><img src="{% link assets/images/interiors/mek04.jpg %}" alt=""/></span></div>
+				<div class="7u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/mek06.jpg %}" alt=""/></span></div>
+				<div class="5u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/mek04.jpg %}" alt=""/></span></div>
 				<!-- break -->
-				<div class="4u"><span class="image fit"><img src="{% link assets/images/interiors/omk02.jpg %}" alt=""/></span></div>
-				<div class="4u"><span class="image fit"><img src="{% link assets/images/interiors/omk05.jpg %}" alt=""/></span></div>
-				<div class="4u$"><span class="image fit"><img src="{% link assets/images/interiors/omk04.jpg %}" alt=""/></span></div>
+				<div class="4u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/omk02.jpg %}" alt=""/></span></div>
+				<div class="4u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/omk05.jpg %}" alt=""/></span></div>
+				<div class="4u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/omk04.jpg %}" alt=""/></span></div>
 				<!-- break -->
-				<div class="5u"><span class="image fit"><img src="{% link assets/images/interiors/omk03.jpg %}" alt=""/></span></div>
-				<div class="7u$"><span class="image fit"><img src="{% link assets/images/interiors/omk01.jpg %}" alt=""/></span></div>				
+				<div class="5u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/omk03.jpg %}" alt=""/></span></div>
+				<div class="7u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/omk01.jpg %}" alt=""/><span><div>				
 				<!-- break -->
 				<div class="12u"><span class="image fit"><img src="{% link assets/images/interiors/san10.jpg %}" alt=""/></span></div>
 				<!-- break -->
-				<div class="6u"><span class="image fit"><img src="{% link assets/images/interiors/san01.jpg %}" alt=""/></span></div>
-				<div class="6u$"><span class="image fit"><img src="{% link assets/images/interiors/san02.jpg %}" alt=""/></span></div>
+				<div class="6u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/san01.jpg %}" alt=""/></span></div>
+				<div class="6u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/san02.jpg %}" alt=""/></span></div>
 				<!-- break -->
-				<div class="6u"><span class="image fit"><img src="{% link assets/images/interiors/san05.jpg %}" alt=""/></span></div>
-				<div class="3u"><span class="image fit"><img src="{% link assets/images/interiors/san04.jpg %}" alt=""/></span></div>
-				<div class="3u"><span class="image fit"><img src="{% link assets/images/interiors/san08.jpg %}" alt=""/></span></div>
-				<div class="3u"><span class="image fit"><img src="{% link assets/images/interiors/san03.jpg %}" alt=""/></span></div>
-				<div class="3u$"><span class="image fit"><img src="{% link assets/images/interiors/san06.jpg %}" alt=""/></span></div>
+				<div class="6u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/san05.jpg %}" alt=""/></span></div>
+				<div class="3u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/san04.jpg %}" alt=""/></span></div>
+				<div class="3u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/san08.jpg %}" alt=""/></span></div>
+				<div class="3u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/san03.jpg %}" alt=""/></span></div>
+				<div class="3u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/san06.jpg %}" alt=""/></span></div>
 				<!-- break -->
-				<div class="6u"><span class="image fit"><img src="{% link assets/images/interiors/san07.jpg %}" alt=""/></span></div>
-				<div class="6u$"><span class="image fit"><img src="{% link assets/images/interiors/san09.jpg %}" alt=""/></span></div>
+				<div class="6u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/san07.jpg %}" alt=""/></span></div>
+				<div class="6u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/san09.jpg %}" alt=""/></span></div>
 				<!-- break -->
-				<div class="4u"><span class="image fit"><img src="{% link assets/images/interiors/mbv02.jpg %}" alt=""/></span></div>
-				<div class="4u"><span class="image fit"><img src="{% link assets/images/interiors/mbv04.jpg %}" alt=""/></span></div>
-				<div class="4u$"><span class="image fit"><img src="{% link assets/images/interiors/mbv05.jpg %}" alt=""/></span></div>
+				<div class="4u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/mbv02.jpg %}" alt=""/></span></div>
+				<div class="4u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/mbv04.jpg %}" alt=""/></span></div>
+				<div class="4u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/mbv05.jpg %}" alt=""/></span></div>
 				<!-- break -->
-				<div class="6u"><span class="image fit"><img src="{% link assets/images/interiors/mbv01.jpg %}" alt=""/></span></div>
-				<div class="6u$"><span class="image fit"><img src="{% link assets/images/interiors/mbv03.jpg %}" alt=""/></span></div>
+				<div class="6u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/mbv01.jpg %}" alt=""/></span></div>
+				<div class="6u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/mbv03.jpg %}" alt=""/></span></div>
 				<!-- break -->
-				<div class="5u"><span class="image fit"><img src="{% link assets/images/interiors/mbv06.jpg %}" alt=""/></span></div>
-				<div class="7u$"><span class="image fit"><img src="{% link assets/images/interiors/mbv07.jpg %}" alt=""/></span></div>
+				<div class="5u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/mbv06.jpg %}" alt=""/></span></div>
+				<div class="7u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/mbv07.jpg %}" alt=""/></span></div>
 				<!-- break -->
-				<div class="4u"><span class="image fit"><img src="{% link assets/images/interiors/ram01.jpg %}" alt=""/></span></div>
-				<div class="4u"><span class="image fit"><img src="{% link assets/images/interiors/ram02.jpg %}" alt=""/></span></div>
-				<div class="4u$"><span class="image fit"><img src="{% link assets/images/interiors/ram03.jpg %}" alt=""/></span></div>
+				<div class="4u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/ram01.jpg %}" alt=""/></span></div>
+				<div class="4u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/ram02.jpg %}" alt=""/></span></div>
+				<div class="4u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/ram03.jpg %}" alt=""/></span></div>
 				<!-- break -->
-				<div class="4u"><span class="image fit"><img src="{% link assets/images/interiors/ram04.jpg %}" alt=""/></span></div>
-				<div class="4u"><span class="image fit"><img src="{% link assets/images/interiors/ram05.jpg %}" alt=""/></span></div>
-				<div class="4u$"><span class="image fit"><img src="{% link assets/images/interiors/ram06.jpg %}" alt=""/></span></div>
+				<div class="4u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/ram04.jpg %}" alt=""/></span></div>
+				<div class="4u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/ram05.jpg %}" alt=""/></span></div>
+				<div class="4u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/ram06.jpg %}" alt=""/></span></div>
 				<!-- break -->
-				<div class="7u"><span class="image fit"><img src="{% link assets/images/interiors/vij01.jpg %}" alt=""/></span></div>
-				<div class="5u"><span class="image fit"><img src="{% link assets/images/interiors/vij02.jpg %}" alt=""/></span></div>
-				<div class="5u$"><span class="image fit"><img src="{% link assets/images/interiors/ani01.jpg %}" alt=""/></span></div>
+				<div class="7u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/vij01.jpg %}" alt=""/></span></div>
+				<div class="5u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/vij02.jpg %}" alt=""/></span></div>
+				<div class="5u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/ani01.jpg %}" alt=""/></span></div>
 				<!-- break -->
-				<div class="7u"><span class="image fit"><img src="{% link assets/images/interiors/yel01.jpg %}" alt=""/></span></div>
-				<div class="5u$"><span class="image fit"><img src="{% link assets/images/interiors/yel02.jpg %}" alt=""/></span></div>
+				<div class="7u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/yel01.jpg %}" alt=""/></span></div>
+				<div class="5u 12u$(small)"><span class="image fit"><img src="{% link assets/images/interiors/yel02.jpg %}" alt=""/></span></div>
 			</div>
 		</div>
 	</div>
