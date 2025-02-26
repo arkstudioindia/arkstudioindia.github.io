@@ -2,18 +2,26 @@
 <section id="contact">
 	<div class="inner">
 		<section>
-			<form action="https://formspree.io/{{ site.email }}" method="POST">
+			<form action="https://formspree.io/{{ site.form_id }}" method="POST">
 				<div class="field half first">
 					<label for="name">Name</label>
 					<input type="text" name="name" id="name" />
 				</div>
 				<div class="field half">
 					<label for="email">Email</label>
-					<input type="text" name="_replyto" id="email" />
+					<input type="text" name="email" id="email" />
 				</div>
 				<div class="field">
-					<label for="message">Message</label>
-					<textarea name="message" id="message" rows="6"></textarea>
+					<select name="category" id="category">
+						<option value="others">Select Category</option>
+						<option value="construction">Construction</option>
+						<option value="interiors-residential">Interiors - Residential</option>
+						<option value="interiors-commercial">Interiors - Commercial</option>
+					</select>
+				</div>
+				<div class="field">
+					<label for="enquiry">Enquiry</label>
+					<textarea name="enquiry" id="enquiry" rows="6"></textarea>
 				</div>
 				<ul class="actions">
 					<li><input type="submit" value="Send Message" class="special" /></li>
@@ -29,13 +37,13 @@
 					<a href="mailto:{{ site.email }}">{{ site.email }}</a>
 				</div>
 			</section>
-			<section>
+			<!-- <section>
 				<div class="contact-method">
 					<span class="icon alt fa-phone"></span>
 					<h3>Phone</h3>
 					<a href="tel:{{ site.phone }}">{{ site.phone }}</a>
 				</div>
-			</section>
+			</section> -->
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-home"></span>
@@ -59,6 +67,10 @@
 					</span>
 				</div>
 			</section>
+			<section>
+				<div class="contact-method">
+				</div>
+			</section>
 		</section>
 	</div>
 </section>
@@ -79,14 +91,13 @@
 			</ul>
 			<ul class="copyright">
 				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
-				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
-				<li>Jekyll integration: <a href="https://github.com/andrewbanchich" target="_blank">Andrew Banchich</a></li>
-
+				<li><a href="#about" class="scrolly">About</a></li>
+				<li><a href="#philosophy" class="scrolly">Philosophy</a></li>
+				<li><a href="#services" class="scrolly">Services</a></li>
+				<li><a href="#contact" class="scrolly">Contact</a></li>
 			</ul>
 		</div>
 	</footer>
-
-</div>
 
 <!-- Scripts -->
 	<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>
